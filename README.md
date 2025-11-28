@@ -1,3 +1,4 @@
 ###  VIDEO  
-[Watch the demo video](./videos/demo.mp4)
+[Watch the demo video](./vide0/oobe-intro.mp4)
+
 
